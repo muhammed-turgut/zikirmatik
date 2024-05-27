@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/zikirmatik"
+        android:title="Zikirmatik"
+        android:icon="@drawable/zikirmatik" />
+    <item
+        android:id="@+id/hisnulmuslim"
+        android:title="Hısnu'l-Müslim"
+        android:icon="@drawable/hisnulmuslim"/>
+    <item
+        android:id="@+id/gorevler"
+        android:title="Görevler"
+        android:icon="@drawable/gorevler"/>
+    <item
+        android:id="@+id/kayitlar"
+        android:title="Kayıtlar"
+        android:icon="@drawable/kayitlar"
+       />
+
+
+
+</menu>
